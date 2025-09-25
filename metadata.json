@@ -1,0 +1,5 @@
+{
+  "name": "Telecom Plan Finder",
+  "description": "A sophisticated, user-friendly web application that helps users find, compare, and select telecom plans and products based on their specific needs and requirements. The app supports multiple countries, offers personalized recommendations, and includes utilities like a simulated network speed test and an interactive coverage map.",
+  "requestFramePermissions": []
+}
